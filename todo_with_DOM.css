@@ -1,0 +1,26 @@
+*{
+    font-family: cursive;
+    text-align: center;
+    background-color: bisque;
+}
+.task{
+    color: white;
+    background-color: green;
+}
+.delete{
+    color: white;
+    background-color: brown;
+    margin-left: 10px;
+}
+h1{
+    margin: auto;
+
+}
+.input{
+    color: grey;
+}
+li{
+    margin-left:10px;
+    color: #181071;
+    font-weight: bolder;
+}
